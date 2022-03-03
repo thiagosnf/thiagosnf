@@ -1,13 +1,12 @@
 ## Oi, eu sou o Thiago, atualmente estou aprendendo python
 <div align="center">
   <a href="https://github.com/thiagosnf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosnf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosnf&layout=compact&langs_count=7&theme=aura"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiagosnf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosnf&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiagosnf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosnf&layout=compact&langs_count=7&theme=aura"/>
+
   
   
   
