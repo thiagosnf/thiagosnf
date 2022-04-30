@@ -10,7 +10,7 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/35j2zl7.gif">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/H7aLhoZ.gif">
 </div>
 
   ##
