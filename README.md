@@ -13,6 +13,7 @@
   <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/35j2zl7.gif">
 </div>
   #
+  
 <div> 
   <a href="https://twitter.com/thiagosnf" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thiagosnf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
