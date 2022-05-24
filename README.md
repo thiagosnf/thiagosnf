@@ -1,4 +1,4 @@
-# Oi, eu sou o Thiago e atualmente estou aprendendo Python
+# Oi, eu sou o Thiago e atualmente estou aprendendo JavaScript
 <div align="center>
   <a href=https://github.com/thiagosnf">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiagosnf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
